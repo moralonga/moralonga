@@ -2,8 +2,8 @@
 
 ### Hi there 👋
 
-- 🔭 I'm currently a QA Intern, working with both manual testing and automation (using Java & Selenium)
-- 🌱 I'm currently learning Cypress and API testing with Postman
+- 🔭 I'm currently a QA Analyst, working with both manual and automated testing
+- 🌱 I'm currently learning Playwright, AI agents, MCP, and spec-driven development
 - 📫 How to reach me: [estermorales@protonmail.com](mailto:estermorales@protonmail.com)
 <!--
 **estermmorales/estermmorales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
